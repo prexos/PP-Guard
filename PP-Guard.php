@@ -23,9 +23,10 @@ $lightpurple = "\e[1;35m";
 pilih:
     system($bersih);
     echo "
-   \         ,        ,
-    \       /(        )`
-     \      \ \___   / |
+    
+             ,        ,
+            /(        )`
+            \ \___   / |
             /- _  `-/  '
            (/\/ \ \   /\
            / /   | `    \
@@ -41,11 +42,13 @@ pilih:
               \       /
         ______( (_  / \______
       ,'  ,-----'   |        \
-      `--{__________)        \/ ";
+      `--{__________)        \/ 
+
+";
     echo "
-$aqua Recoded : Grovty
-$darkred Thanks to : IndoXploit - Kumpulan Remaja - AQW Para Famos
-$lime Type    : Profil Guard Facebook
+$green Recoded : Grovty
+$cyan Thanks to : IndoXploit - Kumpulan Remaja - AQW Para Famos
+$blue Type    : Profil Guard Facebook
 $darkgray Date    : $date
 ";
     echo " 
