@@ -22,8 +22,8 @@ $lightred = "\e[1;31m";
 $lightpurple = "\e[1;35m";
 pilih:
     system($bersih);
-    echo "
-    
+    echo "$green
+   
              ,        ,
             /(        )`
             \ \___   / |
@@ -47,8 +47,8 @@ pilih:
 ";
     echo "
 $green Recoded : Grovty
-$cyan Thanks to : IndoXploit - Kumpulan Remaja - AQW Para Famos
-$blue Type    : Profil Guard Facebook
+$green Thanks to : IndoXploit - Kumpulan Remaja - AQW Para Famos
+$darkgrey Type    : Profil Guard Facebook
 $darkgray Date    : $date
 ";
     echo " 
