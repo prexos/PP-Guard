@@ -1,6 +1,5 @@
 Untuk memakai tool ini lakukan beberapa langkah sebagai berikut.
 
-//
 
 1. $pkg upgrade
 2. $pkg install php
@@ -12,4 +11,3 @@ Untuk memakai tool ini lakukan beberapa langkah sebagai berikut.
 
 thanks to kumpulan remaja
 
-\\
