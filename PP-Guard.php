@@ -73,8 +73,7 @@ $darkgray Date    : $date
     sleep(1.5);
     echo "........";
     sleep(1.5);
-    echo "........."
-";
+    echo ".........";
     sleep(2);
     echo " 
 ";
