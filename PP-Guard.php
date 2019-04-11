@@ -178,9 +178,11 @@ echo "$darkgrey Sumber Script https://kumpulanremaja.com
         sleep(2.5);
         echo "
 ";
-        echo "$lightgreen Silahkan Cek Foto Facebook anda";
+        echo "$lightgreen Silahkan Cek Foto Facebook anda
+";
         sleep(1);
-        echo "$yellow Perlindugan Foto facebook anda";
+        echo "$yellow Perlindugan Foto facebook anda
+";
         echo " Tunggu beberapa detik";
         echo " .";
         sleep(2);
