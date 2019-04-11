@@ -43,7 +43,7 @@ pilih:
       ,'  ,-----'   |        \
       `--{__________)        \/ ";
     echo "
-$lime Recoded : Grovty
+$aqua Recoded : Grovty
 $darkred Thanks to : IndoXploit - Kumpulan Remaja - AQW Para Famos
 $lime Type    : Profil Guard Facebook
 $darkgray Date    : $date
