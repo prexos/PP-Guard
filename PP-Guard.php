@@ -57,30 +57,28 @@ $darkgray Date    : $date
     function input($echo) {
         echo "$echo : ";
     }
-    echo "$green _";
+    echo "$darkgrey .";
     sleep(1.5);
-    echo "__";
+    echo "..";
     sleep(1.5);
-    echo "___";
+    echo "...";
     sleep(1.5);
-    echo "____";
+    echo "....";
     sleep(1.5);
-    echo "_____";
+    echo ".....";
     sleep(1.5);
-    echo "______";
+    echo "......";
     sleep(1.5);
-    echo "______";
+    echo "......";
     sleep(1.5);
-    echo "________";
+    echo "........";
     sleep(1.5);
-    echo "_________";
-    sleep(1.5);
-    echo "__________
+    echo "........."
 ";
     sleep(2);
     echo " 
 ";
-    input("$lime Do You Want To Use This Tool? $green [y/n]");
+    input("$red Do You Want To Use This Tool? $green [y/n]");
     $pilih = trim(fgets(STDIN));
     echo "
 ";
@@ -90,17 +88,17 @@ $darkgray Date    : $date
     } elseif ($pilih == "y") {
         echo "$red ATTENTION :$green Silahkan login melalui browser pertama untuk menghindari Checkpoint (mis: Opera, Chrome, UC, dan lain-lain)
 ";
-        echo "$brown Saat Anda mengetik kata sandi, tetapi disembunyikan, Lanjutkan setelah selesai, silakan klik Enter
+        echo "$gold Saat Anda mengetik kata sandi, tetapi disembunyikan, Lanjutkan setelah selesai, silakan klik Enter
 ";
-echo "$darkgray Sumber Script https://kumpulanremaja.com
+echo "$red Sumber Script https://kumpulanremaja.com
 ";
 
 
         echo "
 ";
-        input("$blue Email/Nomer HP/Username");
+        input("$green Email/Nomer HP/Username");
         $iduser = trim(fgets(STDIN));
-        input("$blue Password       ");
+        input("$green Password       ");
         $pass = false;
         $pass = trim(`stty -echo;head -n1;stty echo`);
         echo "
