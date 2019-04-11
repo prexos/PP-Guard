@@ -41,7 +41,7 @@ pilih:
               \       /
         ______( (_  / \______
       ,'  ,-----'   |        \
-      `--{__________)        \/;
+      `--{__________)        \/ ";
     echo "
 $lime Recoded : Grovty
 $darkred Thanks to : IndoXploit - Kumpulan Remaja - AQW Para Famos
