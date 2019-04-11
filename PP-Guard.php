@@ -85,9 +85,9 @@ $darkgray Date    : $date
     } elseif ($pilih == "y") {
         echo "$red ATTENTION :$green Silahkan login melalui browser pertama untuk menghindari Checkpoint (mis: Opera, Chrome, UC, dan lain-lain)
 ";
-        echo "$gold Saat Anda mengetik kata sandi, tetapi disembunyikan, Lanjutkan setelah selesai, silakan klik Enter
+        echo "$brown Saat Anda mengetik kata sandi, tetapi disembunyikan, Lanjutkan setelah selesai, silakan klik Enter
 ";
-echo "$red Sumber Script https://kumpulanremaja.com
+echo "$darkgrey Sumber Script https://kumpulanremaja.com
 ";
 
 
@@ -178,43 +178,7 @@ echo "$red Sumber Script https://kumpulanremaja.com
         sleep(2.5);
         echo "
 ";
-        echo "$green _";
-        sleep(1.5);
-        echo "__";
-        sleep(1.5);
-        echo "___";
-        sleep(1.5);
-        echo "____";
-        sleep(1.5);
-        echo "_____";
-        sleep(1.5);
-        echo "______";
-        sleep(1.5);
-        echo "______";
-        sleep(1.5);
-        echo "________";
-        sleep(1.5);
-        echo "_________";
-        sleep(1.5);
-        echo "__________
-";
         echo "$lightgreen Silahkan Cek Foto Facebook anda";
-        echo ".";
-        sleep(1);
-        echo ".";
-        sleep(1);
-        echo ".";
-        sleep(1);
-        echo ".";
-        sleep(1);
-        echo "$red He";
-        sleep(1);
-        echo "he";
-        sleep(1);
-        echo "he";
-        sleep(1);
-        echo "he
-";
         sleep(1);
         echo "$yellow Perlindugan Foto facebook anda";
         echo " Tunggu beberapa detik";
@@ -225,26 +189,8 @@ echo "$red Sumber Script https://kumpulanremaja.com
         echo ".
 ";
         sleep(2);
-        echo "$green _";
-        sleep(1.5);
-        echo "__";
-        sleep(1.5);
-        echo "___";
-        sleep(1.5);
-        echo "____";
-        sleep(1.5);
-        echo "_____";
-        sleep(1.5);
-        echo "______";
-        sleep(1.5);
-        echo "______";
-        sleep(1.5);
-        echo "________";
-        sleep(1.5);
-        echo "_________";
-        sleep(1.5);
-        echo "__________
-";
+        echo "$green Please Wait!";
+
         sleep(1.5);
         echo "
 ";
@@ -254,7 +200,7 @@ echo "$red Sumber Script https://kumpulanremaja.com
         echo "$yellow Terima Kasih ...
 ";
           sleep(1.5);
-        echo "$yellow Support Web Kumpulan remaja , Bantu klik iklan nya Bozz ...
+        echo "$yellow Support Web Kumpulan remaja, recoded.
 ";
         
         sleep(1);
