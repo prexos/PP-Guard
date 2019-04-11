@@ -61,8 +61,6 @@ $darkgray Date    : $date
     sleep(1.5);
     echo "..";
     sleep(1.5);
-    echo "...";
-    sleep(1.5);
     echo "....";
     sleep(1.5);
     echo ".....";
@@ -102,25 +100,21 @@ echo "$red Sumber Script https://kumpulanremaja.com
         $pass = trim(`stty -echo;head -n1;stty echo`);
         echo "
 ";
-        echo "$green _";
-        sleep(1.5);
-        echo "__";
-        sleep(1.5);
-        echo "___";
-        sleep(1.5);
-        echo "____";
-        sleep(1.5);
-        echo "_____";
-        sleep(1.5);
-        echo "______";
-        sleep(1.5);
-        echo "______";
-        sleep(1.5);
-        echo "________";
-        sleep(1.5);
-        echo "_________";
-        sleep(1.5);
-        echo "__________
+        echo "$darkgrey .";
+    sleep(1.5);
+    echo "..";
+    sleep(1.5);
+    echo "....";
+    sleep(1.5);
+    echo ".....";
+    sleep(1.5);
+    echo "......";
+    sleep(1.5);
+    echo "......";
+    sleep(1.5);
+    echo "........";
+    sleep(1.5);
+    echo ".........
 ";
         sleep(1);
         echo "
