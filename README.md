@@ -1,4 +1,4 @@
-Untuk memakai tool ini lakukan beberapa langkah dibawah ini di termux.
+Untuk memakai tool ini lakukan beberapa langkah sebagai berikut.
 $pkg upgrade
 $pkg install php
 $pkg install git
