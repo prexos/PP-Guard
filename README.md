@@ -6,7 +6,7 @@ Untuk memakai tool ini lakukan beberapa langkah sebagai berikut.
 3. $pkg install git
 4. $pkg install curl
 5. $pkg update
-6. $cd PP-Guard
+6. $cd photo-profile-guard
 7. $php PP-Guard.php
 
 thanks to kumpulan remaja
