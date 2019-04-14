@@ -47,7 +47,7 @@ pilih:
 ";
     echo "
 $green Recoded : Grovty
-$green Thanks to : IndoXploit - Kumpulan Remaja - AQW Para Famos
+$green Thanks to : IndoXploit - Kumpulan Remaja - AQW Para Famos - BagiSharingKuy
 $darkgrey Type    : Profil Guard Facebook
 $darkgray Date    : $date
 ";
